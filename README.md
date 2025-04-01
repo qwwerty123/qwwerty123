@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Harpreet Kaur 👋
 
-<!--
-**qwwerty123/qwwerty123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Data Analyst specializing in Power BI, Tableau, SQL, Python, Predictive Modeling, and Data Visualization.**  
+📊 **Creating interactive dashboards and analytical solutions to uncover insights and drive strategic decisions.**  
+📌 **Looking for opportunities to apply my skills in dynamic, data-driven environments.**
 
-Here are some ideas to get you started:
+📫 **How to reach me:**  
+- **Email:** HAP29SANGHA@GMAIL.COM  
+- **LinkedIn:** 
+[www.linkedin.com/in/harpreet-kaur-29031991s1]
+🧰 **Tools & Technologies:**  
+- **Languages:** Python, SQL  
+- **Visualization Tools:** Power BI, Tableau  
+- **Other Skills:** Data Analysis, Predictive Modeling, Clustering, Dashboard Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:** Advanced Data Visualization Techniques & Machine Learning Models
